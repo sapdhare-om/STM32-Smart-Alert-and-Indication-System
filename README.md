@@ -125,6 +125,5 @@ Om Gajanan Sapdhare
 Electronics and Telecommunication Engineering Student
 
 Interested in Embedded Systems, Automotive Electronics, IoT, and Firmware Development.
----
 
 ## Project Structure
